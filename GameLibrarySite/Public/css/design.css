@@ -1,0 +1,198 @@
+
+body,html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+tbody >tr:hover{
+    color: darkgrey;
+}
+
+
+table{
+    font-size: 13px;
+}
+
+#table1, #table2, #table3, #table4, #table5, #table6{
+    text-align: center;
+}
+
+nav.menu > a{
+    height: 50px;
+    font-size: 15px;
+    min-width: 200px;
+    border-radius: 0px;
+    color: white;
+}
+
+nav.menu > a:hover{
+    color: grey;
+    background-color: black;
+}
+
+#banmember{
+    text-align: center;
+}
+
+#lessThanThree{
+    text-align: left;
+    padding-left: 100px;
+}
+
+#moreThanThree{
+    text-align: left;
+    padding-left: 50px;
+}
+
+#add, #change{
+    margin-left: -10px;
+}
+
+nav.menu{
+    position: relative;
+    background-color: #262626;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+#extensiondropdown{
+    min-width: 50px;
+    margin-right: 10px;
+}
+
+#wrapper{
+    min-height: 1100px;
+    position: relative;
+}
+
+#wrapperSmall{
+    min-height: 900px;
+    position: relative;
+}
+
+#wrapperMini{
+    min-height: 800px;
+    position: relative;
+}
+
+div.accessibleFeature{
+    background-color: white;
+    margin: auto;
+    max-width: 1200px;
+    width: auto;
+    height: 100%;
+    color: black;
+}
+
+div.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 150px;
+    background-color: lightgrey;
+}
+
+td{
+    text-align: center;
+    max-height: 60px; 
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+input.input, select{
+    text-align: left;
+    min-width: 200px;
+}
+
+
+h6{
+    text-align: center;
+}
+
+h6.menubar{
+    padding-top: 8px;
+    text-align: center;
+}
+
+h3{
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+
+div.container{
+    background-color: lightgrey;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    height: 430px;
+}
+
+#loginPage{
+    background-image: url("../resources/background.jpg");
+}
+
+form.form-horizontal{
+    font-size: 18px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#logo{
+    margin-top: 40px;
+    margin-left: 37%;
+}
+
+label{
+    left:-40%;
+}
+
+#title{
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+}
+
+
+#login, #pwd, #email, #register{
+    text-align: left;
+    font-size: 18px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#register{
+    text-align: center;
+}
+
+#login{
+    background-color: green;
+    text-align: center;
+}
+
+#loginform{
+    margin-top:65px;
+    list-style-type: none;
+}
+
+
+th{
+    text-align: center;
+}
+
+#reviewInput{
+    border: none;
+    background: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
