@@ -1,3 +1,5 @@
+Team Neon
+
 Software Engineering Group Project: Lab Project
 
 By David Mahgerefteh and Mandu Shi
