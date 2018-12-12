@@ -4,6 +4,7 @@ Software Engineering Group Project: Lab Project
 
 Used Library Code:
   -Bootstrap
+Some work has been inspired by the recommended training video.
 
 By David Mahgerefteh and Mandu Shi
 
