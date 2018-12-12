@@ -2,6 +2,9 @@ Team Neon
 
 Software Engineering Group Project: Lab Project
 
+Used Library Code:
+  -Bootstrap
+
 By David Mahgerefteh and Mandu Shi
 
 Please note, loginPage.php will be renamed to index.php so that it will be compatible with AWARDSPACE. The domain version will be in a folder called GameLibrarySite. 
